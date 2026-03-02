@@ -1,0 +1,9 @@
+1. Smith et al. (2020) - "Deep Learning for NLP" - Introduces transformer architectures for text classification. Key finding: attention mechanisms outperform RNNs on long sequences.
+
+2. Jones (2019) - "Survey of Machine Learning in Healthcare" - Reviews 50 ML papers in clinical settings. Key finding: data quality is the primary bottleneck.
+
+3. Lee & Wang (2021) - "Ethical AI Frameworks" - Proposes guidelines for responsible AI deployment. Key finding: fairness metrics conflict depending on context.
+
+4. Brown et al. (2022) - "Bias in NLP Models" - Analyzes gender and racial bias in 10 language models. Key finding: bias persists even after fine-tuning.
+
+5. Garcia (2023) - "Transformer Scaling Laws" - Studies performance vs. model size tradeoffs. Key finding: returns diminish after 100B parameters.
